@@ -198,6 +198,10 @@ hr{
 }
 
 @media (max-width:991px) {
+    
+    #title{
+        text-align: center;
+    }
     #hd{
         text-align: center;
     }
