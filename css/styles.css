@@ -196,3 +196,12 @@ hr{
     padding: 10px 50px;
     color: lightgray;
 }
+
+@media (max-width:991px) {
+    #hd{
+        text-align: center;
+    }
+    .btn,.btn{
+        text-align: center;
+    }
+}
