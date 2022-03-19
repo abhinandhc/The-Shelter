@@ -208,4 +208,7 @@ hr{
     .btn,.btn{
         text-align: center;
     }
+    footer{
+        font-size: 0.5rem;
+    }
 }
